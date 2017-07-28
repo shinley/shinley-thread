@@ -1,4 +1,4 @@
-package com.shinley.thread.forkjoinpool;
+package com.shinley.thread.chapter5.lession1;
 
 public class Product {
   private String name;
